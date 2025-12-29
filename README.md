@@ -1,6 +1,6 @@
 # 📰 Financial News Research AI Agent
 
-RockyBot is an AI-powered financial news research tool that allows users to input news article URLs and ask natural-language questions to retrieve accurate, source-backed insights from the stock market and financial domain.
+An AI-powered financial news research tool that allows users to input news article URLs and ask natural-language questions to retrieve accurate, source-backed insights from the stock market and financial domain.
 
 ![](rockybot.jpg)
 
@@ -38,11 +38,4 @@ RockyBot is an AI-powered financial news research tool that allows users to inpu
 - **Text Extraction:** Unstructured
 - **Language:** Python
 
----
 
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/your-username/rockybot-news-research.git
-cd rockybot-news-research
-pip install -r requirements.txt
